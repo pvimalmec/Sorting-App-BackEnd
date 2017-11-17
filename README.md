@@ -11,16 +11,15 @@ IDE required to start the Spring Boot Application.
 ##REST Services 
 
 #Random Number Service:
-        This service is to provide Random number.
-        Service URL: http://localhost:8090/sorting-app/randomnumbers
+This service is to provide Random number.
+Service URL: http://localhost:8090/sorting-app/randomnumbers
 
 #Sort Number Service:
-        This service is to sort number in ascending order and save it in embedded database(H2).
-       Service URL:  http://localhost:8090/sorting-app/sort
+This service is to sort number in ascending order and save it in embedded database(H2).
+Service URL:  http://localhost:8090/sorting-app/sort
 
 #History Service:
-        This service is to retreive history of sorted numbers 
-        Service URL: http://localhost:8090/sorting-app/history
-
+This service is to retreive history of sorted numbers 
+Service URL: http://localhost:8090/sorting-app/history
 
 
